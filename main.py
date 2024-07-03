@@ -61,3 +61,4 @@ for filepath in filepaths:
     pdf.image("pythonhow.png", w=10)
 
     pdf.output(f"PDFs/{filename}.pdf")
+
